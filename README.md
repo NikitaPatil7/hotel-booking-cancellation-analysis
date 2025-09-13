@@ -28,7 +28,7 @@ Visualization → KPI cards, charts (bar, line, pie), cancellation insights.
 
 ## Key Steps
 
-1. Data Cleaning & Transformation
+#### 1. Data Cleaning & Transformation
 
 Removed irrelevant columns (e.g., contact details, agent, company).
 
@@ -38,7 +38,7 @@ room_status → Check if guest received the desired room.
 
 guest_type → Categorized into Singles, Couples, Families.
 
-2. Pivot Table Analysis
+#### 2. Pivot Table Analysis
 
 Cancellations by hotel type (City Hotel vs Resort Hotel).
 
@@ -48,7 +48,7 @@ Seasonal trends (monthly cancellations).
 
 Room status impact on cancellations.
 
-3. Dashboard Creation
+#### 3. Dashboard Creation
 
 KPIs: Total Bookings, Total Cancellations, Cancellation Rate (37%).
 
