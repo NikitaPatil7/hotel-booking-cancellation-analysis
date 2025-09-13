@@ -84,4 +84,4 @@ Prepare for peak-season cancellations with better overbooking strategies.
 
 Excel · Data Analytics · Power Query · Pivot Tables · Dashboard Design · Hotel Booking Analysis · Cancellation Prediction
 
-## This project demonstrates my ability to transform raw data into actionable insights, build interactive dashboards, and communicate findings effectively to drive business decisions.
+### This project demonstrates my ability to transform raw data into actionable insights, build interactive dashboards, and communicate findings effectively to drive business decisions.
